@@ -1,5 +1,6 @@
 # Matrice3D
 Class Matrice3D made in C++, implements a 3D matrix. Docs and comments are in italian.
+Made by Elio Gargiulo, for UNIMIB C++ Course
 # Introduzione
 Il Progetto Matrice3D tratta la realizzazione di una classe templata Matrice3D e di un
 programma relativo per testarne le funzionalità (Nello specifico un programma a riga di
